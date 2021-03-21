@@ -1,7 +1,3 @@
-
-
-
-
 # Project 3 - *parsestagram*
 
 **parsestagram** is a photo sharing app similar to Instagram but using Parse as its backend.
@@ -38,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/lnguyen0103/parsestagram/blob/master/InstagramPart1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/lnguyen0103/parsestagram/blob/master/InstagramPart2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
